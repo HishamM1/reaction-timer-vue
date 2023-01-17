@@ -1,5 +1,5 @@
 # reaction-timer
-
+Reaction Timer Mini Game with Vue.js using Vue hooks, components, props, and custom events to emit it in the child components.
 ## Project setup
 ```
 npm install
